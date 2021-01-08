@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oshoham/UnityGoogleCloudStreamingSpeechToText.git"
+    "url": "git+https://github.com:petevieira/UnityGoogleStreamingSpeechToText.git"
   },
   "unity": "2019.1",
   "keywords": [
